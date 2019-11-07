@@ -3,7 +3,10 @@
     "description": "Classe criada para facilitar a implementa\u0000\u0000o do registro de boletos",
     "type": "library",
     "minimum-stability": "dev",
-    "require": {},
+    "license":"OSL-3.0",
+    "require": {
+    	"php": "^7.0"
+    },
     "autoload":{
     	"psr-0":{
     		"CobrancaNet": "src/"
