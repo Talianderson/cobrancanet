@@ -1,0 +1,12 @@
+{
+    "name": "talianderson/cobrancanet",
+    "description": "Classe criada para facilitar a implementa\u0000\u0000o do registro de boletos",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    	"psr-0":{
+    		"CobrancaNet": "src/"
+    	}
+    }
+}
