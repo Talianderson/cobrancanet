@@ -1,9 +1,15 @@
 {
-    "name": "talianderson/cobrancanet",
-    "description": "Classe criada para facilitar a implementa\u0000\u0000o do registro de boletos",
-    "type": "library",
-    "minimum-stability": "dev",
+    "name": "Talianderson/cobrancanet",
+    "description": "Classe para gerar boletos no cobrancanet",
+    "type": "library", 
+    "autors":[
+    	{
+    		"name":"Talianderson Dias",
+    		"email":"tlaianderson.web@gmail.com"
+    	}
+    ],
     "license":"OSL-3.0",
+    "minimum-stability": "dev",
     "require": {
     	"php": "^7.0"
     },
